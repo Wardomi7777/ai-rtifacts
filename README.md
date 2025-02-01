@@ -1,5 +1,7 @@
 # ai-rtifacts
 
+**WARNING:** This is Proof Of Concept project and it contains bugs and missing features, do not treat it as ready to use tool!
+
 This projest is 100% generated using LLM.
 
 AI-rtifacts is sandbox project that explore idea of various artifacts other than just chatbots to interact with LLM's as a user.
