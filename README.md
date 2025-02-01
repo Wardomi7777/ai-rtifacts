@@ -7,3 +7,5 @@ AI-rtifacts is sandbox project that explore idea of various artifacts other than
 You can check out project here https://resplendent-panda-67bfae.netlify.app/.
 
 This version is open-sourced so feel free to use it, experiment and edit! There is high probability that my next version will not be open-sourced though.
+
+TODO: There will be also case stud of building this POC.
